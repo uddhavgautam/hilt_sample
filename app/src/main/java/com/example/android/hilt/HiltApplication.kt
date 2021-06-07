@@ -8,4 +8,4 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 // which is runtime (reflection based) framework
 
 @HiltAndroidApp
-class ExampleApplication : Application() {}
+class HiltApplication : Application() {}
